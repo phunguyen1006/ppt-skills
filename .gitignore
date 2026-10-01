@@ -1,0 +1,12 @@
+# Local reference corpus and inspection intermediates
+*.pdf
+marketing-style-study/pages/
+marketing-style-study/batches/
+marketing-style-study/detail-review/
+marketing-style-study/manifest.json
+study_corpus.py
+review_details.py
+
+# Local publishing helpers
+.publish/
+repository/
